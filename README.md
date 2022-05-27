@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zk497&count_private=true&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zk497&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zk497&theme=dark&date_format=j%20M%5B%20Y%5D&ring=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
