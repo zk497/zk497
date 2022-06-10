@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zk497&theme=nightowl&date_format=j%20M%5B%20Y%5D&border=DD0000&fire=DD0000&ring=DDDDDD&currStreakNum=DDDADA)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest)](https://github.com/zk497/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest)](https://github.com/zk497/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=Commits)](https://github.com/zk497/github-profile-trophy)
