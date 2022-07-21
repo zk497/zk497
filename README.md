@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=Commits)](https://github.com/zk497/github-profile-trophy)
 
 -->
+![Snake animation](https://github.com/zk497/zk497/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Stats
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=zk497)](https://github.com/LordDashMe/github-contribution-stats/)
