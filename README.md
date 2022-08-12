@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 <a href="https://fyp-2021-61ceb.web.app/#/">Final Year Project (2021)</a>
 
-
--->
 ## 📊 Github Contribution Animation
 ![Snake animation](https://github.com/zk497/zk497/blob/output/github-contribution-grid-snake.svg)
 
+-->
 ## 📊 Stats
 
 <table>
