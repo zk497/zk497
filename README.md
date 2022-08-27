@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-## 🏆 Trophy
+## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest)](https://github.com/zk497/github-profile-trophy) 
 
