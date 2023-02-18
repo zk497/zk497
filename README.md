@@ -39,9 +39,19 @@ Here are some ideas to get you started:
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest)](https://github.com/zk497/github-profile-trophy) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=Commits)](https://github.com/zk497/github-profile-trophy) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&title=Issues)](https://github.com/zk497/github-profile-trophy) 
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://github.com/zk497/github-profile-trophy" style="margin-right: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest" style="width: 33%;"/>
+  </a>
+  <a href="https://github.com/zk497/github-profile-trophy" style="margin-right: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Commits" style="width: 33%;"/>
+  </a>
+  <a href="https://github.com/zk497/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Issues" style="width: 33%;"/>
+  </a>
+</div>
+
+
 
 
 
