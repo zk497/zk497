@@ -39,17 +39,24 @@ Here are some ideas to get you started:
 
 ## 🏆 Trophies
 
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/zk497/github-profile-trophy" style="margin-right: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest" style="width: 33%;"/>
+<!-- <div style="display: flex; flex-wrap: wrap;">
+  <a href="https://github.com/zk497/github-profile-trophy" style="margin-right: 0px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest" style="width: 49%;"/>
   </a>
-  <a href="https://github.com/zk497/github-profile-trophy" style="margin-right: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Commits" style="width: 33%;"/>
+  <a href="https://github.com/zk497/github-profile-trophy" style="margin-right: 0px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Commits" style="width: 49%;"/>
   </a>
   <a href="https://github.com/zk497/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Issues" style="width: 33%;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Issues" style="width: 49%;"/>
   </a>
-</div>
+  <a href="https://github.com/zk497/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Repo" style="width: 49%;"/>
+  </a>
+</div> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&theme=onedark)](https://github.com/zk497/github-profile-trophy)
+
+
 
 
 
