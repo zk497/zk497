@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 🏆 Trophies
 
-<!-- <div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/zk497/github-profile-trophy" style="margin-right: 0px;">
     <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=PullRequest" style="width: 49%;"/>
   </a>
@@ -52,9 +52,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/zk497/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=zk497&title=Repo" style="width: 49%;"/>
   </a>
-</div> -->
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zk497&theme=onedark)](https://github.com/zk497/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zk497&theme=onedark)](https://github.com/zk497/github-profile-trophy) -->
 
 
 
